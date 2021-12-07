@@ -1,0 +1,76 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Test",
+      "children" : [ {
+        "name" : "Google search test without page",
+        "children" : [ {
+          "name" : "Google search test without page",
+          "uid" : "9226591c06787115",
+          "parentUid" : "5373bd1342c8d48724c591109ed68ee2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1636511623324,
+            "stop" : 1636511626804,
+            "duration" : 3480
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 1,
+          "retriesStatusChange" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5373bd1342c8d48724c591109ed68ee2"
+      }, {
+        "name" : "Facebook login test",
+        "children" : [ {
+          "name" : "Invalid Login Scenario with wrong username and password.",
+          "uid" : "4a75555b73ce7675",
+          "parentUid" : "bf45b8e50a8016d64fa23b3dd8ad8bfc",
+          "status" : "failed",
+          "time" : {
+            "start" : 1636515997180,
+            "stop" : 1636516027235,
+            "duration" : 30055
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 5,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "bf45b8e50a8016d64fa23b3dd8ad8bfc"
+      }, {
+        "name" : "Google search test",
+        "children" : [ {
+          "name" : "Google search test",
+          "uid" : "5a74df18354efd83",
+          "parentUid" : "68658adb3841f67b296d74d875dfc770",
+          "status" : "passed",
+          "time" : {
+            "start" : 1636516038478,
+            "stop" : 1636516048345,
+            "duration" : 9867
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 5,
+          "retriesStatusChange" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "68658adb3841f67b296d74d875dfc770"
+      } ],
+      "uid" : "7314231e84d67a341867b5c9d3f928d2"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}

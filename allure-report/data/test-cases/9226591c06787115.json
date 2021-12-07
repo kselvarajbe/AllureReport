@@ -1,0 +1,176 @@
+{
+  "uid" : "9226591c06787115",
+  "name" : "Google search test without page",
+  "fullName" : "com.mas_allure.tests.GoogleSearchTest_withoutPage.googleSearchTest",
+  "historyId" : "a8fede72736f65e67e36b69f4414e474",
+  "time" : {
+    "start" : 1636511623324,
+    "stop" : 1636511626804,
+    "duration" : 3480
+  },
+  "description" : "Test Description: Google search test without page.",
+  "descriptionHtml" : "<p>Test Description: Google search test without page.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ {
+    "name" : "globalSetup",
+    "time" : {
+      "start" : 1636511620033,
+      "stop" : 1636511620092,
+      "duration" : 59
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1636511620115,
+      "stop" : 1636511623175,
+      "duration" : 3060
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: Google search test without page.",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2eefdf72bc5700b1",
+      "name" : "Google search results",
+      "source" : "2eefdf72bc5700b1.png",
+      "type" : "image/png",
+      "size" : 75503
+    }, {
+      "uid" : "256bb7f52e1c8252",
+      "name" : "Search results",
+      "source" : "256bb7f52e1c8252.png",
+      "type" : "image/png",
+      "size" : 223696
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "wrapUp",
+    "time" : {
+      "start" : 1636511626880,
+      "stop" : 1636511631626,
+      "duration" : 4746
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "wrapAllUp",
+    "time" : {
+      "start" : 1636511631879,
+      "stop" : 1636511631880,
+      "duration" : 1
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.mas_allure.tests.GoogleSearchTest_withoutPage"
+  }, {
+    "name" : "testClass",
+    "value" : "com.mas_allure.tests.GoogleSearchTest_withoutPage"
+  }, {
+    "name" : "testMethod",
+    "value" : "googleSearchTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Google search test without page"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-O2PFH35H"
+  }, {
+    "name" : "thread",
+    "value" : "17796@LAPTOP-O2PFH35H.TestNG-test=Test-1(14)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Google search test {0}"
+  }, {
+    "name" : "feature",
+    "value" : "Google search Tests without page"
+  }, {
+    "name" : "epic",
+    "value" : "Regression Tests"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "fc6302f6bfc78037",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n  (Session info: chrome=95.0.4638.69)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LAPTOP-O2PFH35H', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: C:\\Users\\optimum\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:56322}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 5b40c2008b65dd59bf2e6d9fa4665b7f\n*** Element info: {Using=name, value=name = 'q'}",
+      "time" : {
+        "start" : 1636511342822,
+        "stop" : 1636511343718,
+        "duration" : 896
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9226591c06787115.json",
+  "parameterValues" : [ ]
+}

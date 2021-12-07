@@ -1,0 +1,437 @@
+2021-11-09 19:33:44,364 ************************** Test Execution Started ************************************ 
+2021-11-09 19:33:48,204 Google search test: Test started 
+2021-11-09 19:33:49,071 Facebook login test: Test started 
+2021-11-09 19:33:52,787 Google search test : Test Passed 
+2021-11-09 19:34:13,953 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2021-11-09 19:34:18,906 Total number of testcases : 2 
+2021-11-09 19:34:18,907 Number of testcases Passed : 1 
+2021-11-09 19:34:18,907 Number of testcases Failed : 1 
+2021-11-09 19:34:18,907 Number of testcases Skipped  : 0 
+2021-11-09 19:34:18,908 Mail sending toggel is set to false 
+2021-11-09 19:34:18,908 Mail sent : false 
+2021-11-09 19:34:18,909 ************************** Test Execution Finished ************************************ 
+2021-11-09 19:39:27,339 ************************** Test Execution Started ************************************ 
+2021-11-09 19:39:32,281 Google search test: Test started 
+2021-11-09 19:39:32,858 Facebook login test: Test started 
+2021-11-09 19:39:34,004 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2021-11-09 19:39:36,722 Google search test : Test Passed 
+2021-11-09 19:40:03,185 Total number of testcases : 2 
+2021-11-09 19:40:03,185 Number of testcases Passed : 1 
+2021-11-09 19:40:03,185 Number of testcases Failed : 1 
+2021-11-09 19:40:03,185 Number of testcases Skipped  : 0 
+2021-11-09 19:40:03,186 Mail sending toggel is set to false 
+2021-11-09 19:40:03,186 Mail sent : false 
+2021-11-09 19:40:03,186 ************************** Test Execution Finished ************************************ 
+2021-11-09 19:46:33,598 ************************** Test Execution Started ************************************ 
+2021-11-09 19:46:37,717 Facebook login test: Test started 
+2021-11-09 19:47:05,518 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2021-11-09 19:47:13,256 Google search test: Test started 
+2021-11-09 19:47:17,551 Google search test : Test Passed 
+2021-11-09 19:47:22,600 Total number of testcases : 2 
+2021-11-09 19:47:22,600 Number of testcases Passed : 1 
+2021-11-09 19:47:22,600 Number of testcases Failed : 1 
+2021-11-09 19:47:22,600 Number of testcases Skipped  : 0 
+2021-11-09 19:47:22,600 Mail sending toggel is set to false 
+2021-11-09 19:47:22,600 Mail sent : false 
+2021-11-09 19:47:22,601 ************************** Test Execution Finished ************************************ 
+2021-11-09 19:50:45,687 ************************** Test Execution Started ************************************ 
+2021-11-09 19:50:49,728 Facebook login test: Test started 
+2021-11-09 19:51:16,955 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2021-11-09 19:51:24,798 Google search test: Test started 
+2021-11-09 19:51:29,087 Google search test : Test Failed : Title doesn't contain abc : Test Failed expected [true] but found [false] 
+2021-11-09 19:51:34,187 Total number of testcases : 2 
+2021-11-09 19:51:34,187 Number of testcases Passed : 0 
+2021-11-09 19:51:34,187 Number of testcases Failed : 2 
+2021-11-09 19:51:34,187 Number of testcases Skipped  : 0 
+2021-11-09 19:51:34,188 Mail sending toggel is set to false 
+2021-11-09 19:51:34,188 Mail sent : false 
+2021-11-09 19:51:34,188 ************************** Test Execution Finished ************************************ 
+2021-11-09 19:53:32,650 ************************** Test Execution Started ************************************ 
+2021-11-09 19:53:36,785 Facebook login test: Test started 
+2021-11-09 19:54:02,913 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2021-11-09 19:54:10,807 Google search test: Test started 
+2021-11-09 19:54:13,463 Google search test : Test Passed 
+2021-11-09 19:54:18,542 Total number of testcases : 2 
+2021-11-09 19:54:18,542 Number of testcases Passed : 1 
+2021-11-09 19:54:18,542 Number of testcases Failed : 1 
+2021-11-09 19:54:18,542 Number of testcases Skipped  : 0 
+2021-11-09 19:54:18,542 Mail sending toggel is set to false 
+2021-11-09 19:54:18,542 Mail sent : false 
+2021-11-09 19:54:18,542 ************************** Test Execution Finished ************************************ 
+2021-11-10 09:37:09,194 ************************** Test Execution Started ************************************ 
+2021-11-10 09:37:43,489 Facebook login test: Test started 
+2021-11-10 09:37:57,292 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2021-11-10 09:38:55,812 Google search test: Test started 
+2021-11-10 09:39:16,764 Google search test : Test Passed 
+2021-11-10 09:39:30,743 Total number of testcases : 2 
+2021-11-10 09:39:30,743 Number of testcases Passed : 1 
+2021-11-10 09:39:30,743 Number of testcases Failed : 1 
+2021-11-10 09:39:30,743 Number of testcases Skipped  : 0 
+2021-11-10 09:39:30,744 Mail sending toggel is set to false 
+2021-11-10 09:39:30,744 Mail sent : false 
+2021-11-10 09:39:30,744 ************************** Test Execution Finished ************************************ 
+2021-11-10 10:28:53,117 ************************** Test Execution Started ************************************ 
+2021-11-10 10:29:02,787 Google search test without page: Test started 
+2021-11-10 10:29:03,711 Google search test without page : Test Failed : invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-O2PFH35H', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: C:\Users\optimum\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:56322}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5b40c2008b65dd59bf2e6d9fa4665b7f
+*** Element info: {Using=name, value=name = 'q'} 
+2021-11-10 10:29:08,766 Total number of testcases : 1 
+2021-11-10 10:29:08,766 Number of testcases Passed : 0 
+2021-11-10 10:29:08,766 Number of testcases Failed : 1 
+2021-11-10 10:29:08,766 Number of testcases Skipped  : 0 
+2021-11-10 10:29:08,766 Mail sending toggel is set to false 
+2021-11-10 10:29:08,766 Mail sent : false 
+2021-11-10 10:29:08,766 ************************** Test Execution Finished ************************************ 
+2021-11-10 10:33:40,089 ************************** Test Execution Started ************************************ 
+2021-11-10 10:33:43,183 Google search test without page: Test started 
+2021-11-10 10:33:46,639 Google search test without page : Test Passed 
+2021-11-10 10:33:51,879 Total number of testcases : 1 
+2021-11-10 10:33:51,879 Number of testcases Passed : 1 
+2021-11-10 10:33:51,879 Number of testcases Failed : 0 
+2021-11-10 10:33:51,879 Number of testcases Skipped  : 0 
+2021-11-10 10:33:51,880 Mail sending toggel is set to false 
+2021-11-10 10:33:51,880 Mail sent : false 
+2021-11-10 10:33:51,880 ************************** Test Execution Finished ************************************ 
+2021-11-10 11:46:22,206 ************************** Test Execution Started ************************************ 
+2021-11-10 11:46:37,129 Facebook login test: Test started 
+2021-11-10 11:47:07,231 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2021-11-10 11:47:18,469 Google search test: Test started 
+2021-11-10 11:47:28,344 Google search test : Test Passed 
+2021-11-10 11:47:36,896 Total number of testcases : 2 
+2021-11-10 11:47:36,896 Number of testcases Passed : 1 
+2021-11-10 11:47:36,896 Number of testcases Failed : 1 
+2021-11-10 11:47:36,896 Number of testcases Skipped  : 0 
+2021-11-10 11:47:36,897 Mail sending toggel is set to false 
+2021-11-10 11:47:36,897 Mail sent : false 
+2021-11-10 11:47:36,897 ************************** Test Execution Finished ************************************ 
+2021-11-10 12:57:40,299 ************************** Test Execution Started ************************************ 
+2021-11-10 12:57:44,598 Facebook login test: Test started 
+2021-11-10 12:58:12,252 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2021-11-10 12:58:19,385 Google search test: Test started 
+2021-11-10 12:58:22,737 Google search test : Test Passed 
+2021-11-10 12:58:27,834 Total number of testcases : 2 
+2021-11-10 12:58:27,834 Number of testcases Passed : 1 
+2021-11-10 12:58:27,834 Number of testcases Failed : 1 
+2021-11-10 12:58:27,834 Number of testcases Skipped  : 0 
+2021-11-10 12:58:27,835 Mail sending toggel is set to false 
+2021-11-10 12:58:27,835 Mail sent : false 
+2021-11-10 12:58:27,835 ************************** Test Execution Finished ************************************ 
+2021-11-10 16:39:27,395 ************************** Test Execution Started ************************************ 
+2021-11-10 16:39:39,980 Facebook login test: Test started 
+2021-11-10 16:40:07,638 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2021-11-10 16:40:13,676 Google search test: Test started 
+2021-11-10 16:40:23,087 Google search test : Test Passed 
+2021-11-10 16:40:28,318 Total number of testcases : 2 
+2021-11-10 16:40:28,318 Number of testcases Passed : 1 
+2021-11-10 16:40:28,318 Number of testcases Failed : 1 
+2021-11-10 16:40:28,318 Number of testcases Skipped  : 0 
+2021-11-10 16:40:28,319 Mail sending toggel is set to false 
+2021-11-10 16:40:28,319 Mail sent : false 
+2021-11-10 16:40:28,319 ************************** Test Execution Finished ************************************ 
+2021-11-10 18:14:17,341 ************************** Test Execution Started ************************************ 
+2021-11-10 18:14:17,374 Facebook login test: Test started 
+2021-11-10 18:14:17,534 Facebook login test : Test Failed : null 
+2021-11-10 18:14:17,536 Facebook login test : Test Failed : WebDriver has not been set, Please set WebDriver instance by WebDriverContext.setDriver... 
+2021-11-10 18:14:17,909 Total number of testcases : 1 
+2021-11-10 18:14:17,909 Number of testcases Passed : 0 
+2021-11-10 18:14:17,909 Number of testcases Failed : 0 
+2021-11-10 18:14:17,909 Number of testcases Skipped  : 0 
+2021-11-10 18:14:17,909 Mail sending toggel is set to false 
+2021-11-10 18:14:17,909 Mail sent : false 
+2021-11-10 18:14:17,909 ************************** Test Execution Finished ************************************ 
+2021-11-10 18:15:30,460 ************************** Test Execution Started ************************************ 
+2021-11-10 18:15:30,635 Facebook login test: Test started 
+2021-11-10 18:15:30,678 Google search test: Test started 
+2021-11-10 18:15:31,097 Total number of testcases : 2 
+2021-11-10 18:15:31,097 Number of testcases Passed : 0 
+2021-11-10 18:15:31,097 Number of testcases Failed : 0 
+2021-11-10 18:15:31,097 Number of testcases Skipped  : 0 
+2021-11-10 18:15:31,098 Mail sending toggel is set to false 
+2021-11-10 18:15:31,098 Mail sent : false 
+2021-11-10 18:15:31,098 ************************** Test Execution Finished ************************************ 
+2021-11-10 18:20:12,456 ************************** Test Execution Started ************************************ 
+2021-11-10 18:20:12,936 Total number of testcases : 0 
+2021-11-10 18:20:12,937 Number of testcases Passed : 0 
+2021-11-10 18:20:12,937 Number of testcases Failed : 0 
+2021-11-10 18:20:12,937 Number of testcases Skipped  : 0 
+2021-11-10 18:20:12,938 Mail sending toggel is set to false 
+2021-11-10 18:20:12,938 Mail sent : false 
+2021-11-10 18:20:12,938 ************************** Test Execution Finished ************************************ 
+2021-11-10 18:23:05,169 ************************** Test Execution Started ************************************ 
+2021-11-10 18:23:05,335 Facebook login test: Test started 
+2021-11-10 18:23:05,762 Total number of testcases : 1 
+2021-11-10 18:23:05,762 Number of testcases Passed : 0 
+2021-11-10 18:23:05,762 Number of testcases Failed : 0 
+2021-11-10 18:23:05,762 Number of testcases Skipped  : 0 
+2021-11-10 18:23:05,763 Mail sending toggel is set to false 
+2021-11-10 18:23:05,763 Mail sent : false 
+2021-11-10 18:23:05,763 ************************** Test Execution Finished ************************************ 
+2021-11-10 18:23:37,162 ************************** Test Execution Started ************************************ 
+2021-11-10 18:23:42,893 Facebook login test: Test started 
+2021-11-10 18:23:44,534 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2021-11-10 18:24:17,161 Google search test: Test started 
+2021-11-10 18:24:20,227 Google search test : Test Passed 
+2021-11-10 18:24:26,112 Total number of testcases : 2 
+2021-11-10 18:24:26,112 Number of testcases Passed : 1 
+2021-11-10 18:24:26,112 Number of testcases Failed : 1 
+2021-11-10 18:24:26,112 Number of testcases Skipped  : 0 
+2021-11-10 18:24:26,113 Mail sending toggel is set to false 
+2021-11-10 18:24:26,114 Mail sent : false 
+2021-11-10 18:24:26,114 ************************** Test Execution Finished ************************************ 
+2021-11-10 18:44:48,043 ************************** Test Execution Started ************************************ 
+2021-11-10 18:44:48,204 Facebook login test: Test started 
+2021-11-10 18:44:48,654 Facebook login test: Test started 
+2021-11-10 18:44:48,692 Total number of testcases : 1 
+2021-11-10 18:44:48,692 Number of testcases Passed : 0 
+2021-11-10 18:44:48,692 Number of testcases Failed : 0 
+2021-11-10 18:44:48,692 Number of testcases Skipped  : 0 
+2021-11-10 18:44:48,693 Mail sending toggel is set to false 
+2021-11-10 18:44:48,694 Mail sent : false 
+2021-11-10 18:44:48,694 ************************** Test Execution Finished ************************************ 
+2021-11-10 18:49:39,915 ************************** Test Execution Started ************************************ 
+2021-11-10 18:49:39,951 Facebook login test: Test started 
+2021-11-10 18:49:40,092 Facebook login test : Test Failed : null 
+2021-11-10 18:49:40,093 Facebook login test : Test Failed : WebDriver has not been set, Please set WebDriver instance by WebDriverContext.setDriver... 
+2021-11-10 18:49:40,095 Google search test: Test started 
+2021-11-10 18:49:40,098 Google search test : Test Failed : null 
+2021-11-10 18:49:40,098 Google search test : Test Failed : WebDriver has not been set, Please set WebDriver instance by WebDriverContext.setDriver... 
+2021-11-10 18:49:40,478 Total number of testcases : 2 
+2021-11-10 18:49:40,478 Number of testcases Passed : 0 
+2021-11-10 18:49:40,478 Number of testcases Failed : 0 
+2021-11-10 18:49:40,478 Number of testcases Skipped  : 0 
+2021-11-10 18:49:40,479 Mail sending toggel is set to false 
+2021-11-10 18:49:40,479 Mail sent : false 
+2021-11-10 18:49:40,479 ************************** Test Execution Finished ************************************ 
+2021-11-10 18:51:49,686 ************************** Test Execution Started ************************************ 
+2021-11-10 18:51:52,765 Facebook login test: Test started 
+2021-11-10 18:52:21,965 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2021-11-10 18:52:28,622 Google search test: Test started 
+2021-11-10 18:52:33,022 Google search test : Test Passed 
+2021-11-10 18:52:38,085 Total number of testcases : 2 
+2021-11-10 18:52:38,086 Number of testcases Passed : 1 
+2021-11-10 18:52:38,086 Number of testcases Failed : 1 
+2021-11-10 18:52:38,086 Number of testcases Skipped  : 0 
+2021-11-10 18:52:38,086 Mail sending toggel is set to false 
+2021-11-10 18:52:38,086 Mail sent : false 
+2021-11-10 18:52:38,086 ************************** Test Execution Finished ************************************ 
+2021-11-11 10:30:30,933 ************************** Test Execution Started ************************************ 
+2021-11-11 10:30:31,089 Facebook login test: Test started 
+2021-11-11 10:30:31,474 Total number of testcases : 1 
+2021-11-11 10:30:31,474 Number of testcases Passed : 0 
+2021-11-11 10:30:31,474 Number of testcases Failed : 0 
+2021-11-11 10:30:31,474 Number of testcases Skipped  : 0 
+2021-11-11 10:30:31,475 Mail sending toggel is set to false 
+2021-11-11 10:30:31,475 Mail sent : false 
+2021-11-11 10:30:31,475 ************************** Test Execution Finished ************************************ 
+2021-11-11 10:38:21,389 ************************** Test Execution Started ************************************ 
+2021-11-11 10:38:21,429 Facebook login test: Test started 
+2021-11-11 10:38:21,628 Facebook login test : Test Failed : null 
+2021-11-11 10:38:21,629 Facebook login test : Test Failed : WebDriver has not been set, Please set WebDriver instance by WebDriverContext.setDriver... 
+2021-11-11 10:38:21,945 Total number of testcases : 1 
+2021-11-11 10:38:21,945 Number of testcases Passed : 0 
+2021-11-11 10:38:21,945 Number of testcases Failed : 0 
+2021-11-11 10:38:21,945 Number of testcases Skipped  : 0 
+2021-11-11 10:38:21,946 Mail sending toggel is set to false 
+2021-11-11 10:38:21,946 Mail sent : false 
+2021-11-11 10:38:21,946 ************************** Test Execution Finished ************************************ 
+2021-11-11 10:38:49,174 ************************** Test Execution Started ************************************ 
+2021-11-11 10:38:49,324 Facebook login test: Test started 
+2021-11-11 10:38:49,704 Total number of testcases : 1 
+2021-11-11 10:38:49,704 Number of testcases Passed : 0 
+2021-11-11 10:38:49,704 Number of testcases Failed : 0 
+2021-11-11 10:38:49,704 Number of testcases Skipped  : 0 
+2021-11-11 10:38:49,705 Mail sending toggel is set to false 
+2021-11-11 10:38:49,705 Mail sent : false 
+2021-11-11 10:38:49,705 ************************** Test Execution Finished ************************************ 
+2021-11-11 10:39:01,267 ************************** Test Execution Started ************************************ 
+2021-11-11 10:39:01,723 Total number of testcases : 0 
+2021-11-11 10:39:01,723 Number of testcases Passed : 0 
+2021-11-11 10:39:01,723 Number of testcases Failed : 0 
+2021-11-11 10:39:01,723 Number of testcases Skipped  : 0 
+2021-11-11 10:39:01,724 Mail sending toggel is set to false 
+2021-11-11 10:39:01,724 Mail sent : false 
+2021-11-11 10:39:01,724 ************************** Test Execution Finished ************************************ 
+2021-11-11 10:39:17,996 ************************** Test Execution Started ************************************ 
+2021-11-11 10:39:18,463 Total number of testcases : 0 
+2021-11-11 10:39:18,463 Number of testcases Passed : 0 
+2021-11-11 10:39:18,463 Number of testcases Failed : 0 
+2021-11-11 10:39:18,463 Number of testcases Skipped  : 0 
+2021-11-11 10:39:18,463 Mail sending toggel is set to false 
+2021-11-11 10:39:18,463 Mail sent : false 
+2021-11-11 10:39:18,463 ************************** Test Execution Finished ************************************ 
+2021-11-11 10:45:07,601 ************************** Test Execution Started ************************************ 
+2021-11-11 10:45:10,108 Facebook login test: Test started 
+2021-11-11 10:45:40,831 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2021-11-11 10:45:47,258 Google search test: Test started 
+2021-11-11 10:45:51,038 Google search test : Test Passed 
+2021-11-11 10:45:57,377 Google search test without page: Test started 
+2021-11-11 10:46:00,755 Google search test without page : Test Passed 
+2021-11-11 10:46:05,796 Total number of testcases : 3 
+2021-11-11 10:46:05,796 Number of testcases Passed : 2 
+2021-11-11 10:46:05,796 Number of testcases Failed : 1 
+2021-11-11 10:46:05,796 Number of testcases Skipped  : 0 
+2021-11-11 10:46:05,796 Mail sending toggel is set to false 
+2021-11-11 10:46:05,796 Mail sent : false 
+2021-11-11 10:46:05,796 ************************** Test Execution Finished ************************************ 
+2021-11-11 11:58:36,184 ************************** Test Execution Started ************************************ 
+2021-11-11 11:58:39,020 Google search test without page: Test started 
+2021-11-11 11:58:42,508 Google search test without page : Test Passed 
+2021-11-11 11:58:47,560 Total number of testcases : 1 
+2021-11-11 11:58:47,560 Number of testcases Passed : 1 
+2021-11-11 11:58:47,560 Number of testcases Failed : 0 
+2021-11-11 11:58:47,560 Number of testcases Skipped  : 0 
+2021-11-11 11:58:47,561 Mail sending toggel is set to false 
+2021-11-11 11:58:47,561 Mail sent : false 
+2021-11-11 11:58:47,561 ************************** Test Execution Finished ************************************ 
+2021-11-11 11:59:27,051 ************************** Test Execution Started ************************************ 
+2021-11-11 11:59:29,684 Google search test without page: Test started 
+2021-11-11 11:59:33,608 Google search test without page : Test Passed 
+2021-11-11 11:59:38,612 Total number of testcases : 1 
+2021-11-11 11:59:38,613 Number of testcases Passed : 1 
+2021-11-11 11:59:38,613 Number of testcases Failed : 0 
+2021-11-11 11:59:38,613 Number of testcases Skipped  : 0 
+2021-11-11 11:59:38,613 Mail sending toggel is set to false 
+2021-11-11 11:59:38,613 Mail sent : false 
+2021-11-11 11:59:38,613 ************************** Test Execution Finished ************************************ 
+2021-11-11 12:04:25,979 ************************** Test Execution Started ************************************ 
+2021-11-11 12:04:28,637 Google search test without page: Test started 
+2021-11-11 12:04:31,026 Google search test without page : Test Passed 
+2021-11-11 12:04:36,083 Total number of testcases : 1 
+2021-11-11 12:04:36,083 Number of testcases Passed : 1 
+2021-11-11 12:04:36,083 Number of testcases Failed : 0 
+2021-11-11 12:04:36,083 Number of testcases Skipped  : 0 
+2021-11-11 12:04:36,083 Mail sending toggel is set to false 
+2021-11-11 12:04:36,084 Mail sent : false 
+2021-11-11 12:04:36,084 ************************** Test Execution Finished ************************************ 
+2021-11-11 12:06:06,969 ************************** Test Execution Started ************************************ 
+2021-11-11 12:06:09,598 Google search test without page: Test started 
+2021-11-11 12:06:12,494 Google search test without page : Test Passed 
+2021-11-11 12:06:17,543 Total number of testcases : 1 
+2021-11-11 12:06:17,543 Number of testcases Passed : 1 
+2021-11-11 12:06:17,543 Number of testcases Failed : 0 
+2021-11-11 12:06:17,543 Number of testcases Skipped  : 0 
+2021-11-11 12:06:17,544 Mail sending toggel is set to false 
+2021-11-11 12:06:17,544 Mail sent : false 
+2021-11-11 12:06:17,544 ************************** Test Execution Finished ************************************ 
+2021-11-11 12:07:59,174 ************************** Test Execution Started ************************************ 
+2021-11-11 12:08:01,800 Facebook login test: Test started 
+2021-11-11 12:08:28,683 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2021-11-11 12:08:35,037 Google search test: Test started 
+2021-11-11 12:08:38,222 Google search test : Test Passed 
+2021-11-11 12:08:43,268 Total number of testcases : 2 
+2021-11-11 12:08:43,268 Number of testcases Passed : 1 
+2021-11-11 12:08:43,268 Number of testcases Failed : 1 
+2021-11-11 12:08:43,268 Number of testcases Skipped  : 0 
+2021-11-11 12:08:43,269 Mail sending toggel is set to false 
+2021-11-11 12:08:43,269 Mail sent : false 
+2021-11-11 12:08:43,269 ************************** Test Execution Finished ************************************ 
+2021-11-11 12:25:01,825 ************************** Test Execution Started ************************************ 
+2021-11-11 12:25:10,930 Google search test without page: Test started 
+2021-11-11 12:25:17,135 Google search test without page : Test Passed 
+2021-11-11 12:25:22,369 Total number of testcases : 1 
+2021-11-11 12:25:22,369 Number of testcases Passed : 1 
+2021-11-11 12:25:22,369 Number of testcases Failed : 0 
+2021-11-11 12:25:22,369 Number of testcases Skipped  : 0 
+2021-11-11 12:25:22,370 Mail sending toggel is set to false 
+2021-11-11 12:25:22,370 Mail sent : false 
+2021-11-11 12:25:22,370 ************************** Test Execution Finished ************************************ 
+2021-11-12 16:42:59,044 ************************** Test Execution Started ************************************ 
+2021-11-12 16:42:59,046 Could not load properties : C:\Users\optimum\eclipse-workspace\mas_allure\src\test\resources\config\test.propertiesQA-test.properties (The system cannot find the file specified) 
+2021-11-12 16:43:01,965 Google search test without page: Test started 
+2021-11-12 16:43:02,259 Google search test without page : Test Failed : null value in entry: url=null 
+2021-11-12 16:43:03,521 Total number of testcases : 1 
+2021-11-12 16:43:03,521 Number of testcases Passed : 0 
+2021-11-12 16:43:03,521 Number of testcases Failed : 1 
+2021-11-12 16:43:03,521 Number of testcases Skipped  : 0 
+2021-11-12 16:43:03,522 Mail sending toggel is set to false 
+2021-11-12 16:43:03,522 Mail sent : false 
+2021-11-12 16:43:03,522 ************************** Test Execution Finished ************************************ 
+2021-11-12 16:46:09,028 ************************** Test Execution Started ************************************ 
+2021-11-12 16:46:11,914 Google search test without page: Test started 
+2021-11-12 16:46:15,449 Google search test without page : Test Passed 
+2021-11-12 16:46:20,875 Total number of testcases : 1 
+2021-11-12 16:46:20,875 Number of testcases Passed : 1 
+2021-11-12 16:46:20,875 Number of testcases Failed : 0 
+2021-11-12 16:46:20,875 Number of testcases Skipped  : 0 
+2021-11-12 16:46:20,876 Mail sending toggel is set to false 
+2021-11-12 16:46:20,876 Mail sent : false 
+2021-11-12 16:46:20,876 ************************** Test Execution Finished ************************************ 
+2021-11-12 16:48:56,430 ************************** Test Execution Started ************************************ 
+2021-11-12 16:48:56,432 Could not load properties : C:\Users\optimum\eclipse-workspace\mas_allure\src\test\resources\config\-test.properties (The system cannot find the file specified) 
+2021-11-12 16:48:59,565 Google search test without page: Test started 
+2021-11-12 16:48:59,778 Google search test without page : Test Failed : null value in entry: url=null 
+2021-11-12 16:49:00,889 Total number of testcases : 1 
+2021-11-12 16:49:00,889 Number of testcases Passed : 0 
+2021-11-12 16:49:00,889 Number of testcases Failed : 1 
+2021-11-12 16:49:00,889 Number of testcases Skipped  : 0 
+2021-11-12 16:49:00,890 Mail sending toggel is set to false 
+2021-11-12 16:49:00,890 Mail sent : false 
+2021-11-12 16:49:00,890 ************************** Test Execution Finished ************************************ 
+2021-11-12 16:51:58,559 ************************** Test Execution Started ************************************ 
+2021-11-12 16:51:58,562 Could not load properties : C:\Users\optimum\eclipse-workspace\mas_allure\src\test\resources\config\-test.properties (The system cannot find the file specified) 
+2021-11-12 16:52:01,335 Google search test without page: Test started 
+2021-11-12 16:52:01,631 Google search test without page : Test Failed : null value in entry: url=null 
+2021-11-12 16:52:02,873 Total number of testcases : 1 
+2021-11-12 16:52:02,873 Number of testcases Passed : 0 
+2021-11-12 16:52:02,873 Number of testcases Failed : 1 
+2021-11-12 16:52:02,873 Number of testcases Skipped  : 0 
+2021-11-12 16:52:02,874 Mail sending toggel is set to false 
+2021-11-12 16:52:02,874 Mail sent : false 
+2021-11-12 16:52:02,874 ************************** Test Execution Finished ************************************ 
+2021-11-12 16:52:38,150 ************************** Test Execution Started ************************************ 
+2021-11-12 16:52:40,956 Google search test without page: Test started 
+2021-11-12 16:52:44,937 Google search test without page : Test Passed 
+2021-11-12 16:52:50,332 Total number of testcases : 1 
+2021-11-12 16:52:50,332 Number of testcases Passed : 1 
+2021-11-12 16:52:50,332 Number of testcases Failed : 0 
+2021-11-12 16:52:50,332 Number of testcases Skipped  : 0 
+2021-11-12 16:52:50,333 Mail sending toggel is set to false 
+2021-11-12 16:52:50,333 Mail sent : false 
+2021-11-12 16:52:50,333 ************************** Test Execution Finished ************************************ 
+2021-11-12 16:53:36,186 ************************** Test Execution Started ************************************ 
+2021-11-12 16:53:38,968 Google search test without page: Test started 
+2021-11-12 16:53:50,195 Google search test without page : Test Failed : no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='q']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-O2PFH35H', ip: '192.168.1.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: C:\Users\optimum\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61856}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bee098b76922ea55b28dfb2d884b0847
+*** Element info: {Using=xpath, value=//input[@name='q']} 
+2021-11-12 16:53:56,017 Total number of testcases : 1 
+2021-11-12 16:53:56,017 Number of testcases Passed : 0 
+2021-11-12 16:53:56,017 Number of testcases Failed : 1 
+2021-11-12 16:53:56,017 Number of testcases Skipped  : 0 
+2021-11-12 16:53:56,018 Mail sending toggel is set to false 
+2021-11-12 16:53:56,018 Mail sent : false 
+2021-11-12 16:53:56,018 ************************** Test Execution Finished ************************************ 
+2021-11-12 16:54:05,534 ************************** Test Execution Started ************************************ 
+2021-11-12 16:54:08,652 Google search test without page: Test started 
+2021-11-12 16:54:14,314 Google search test without page : Test Passed 
+2021-11-12 16:54:19,487 Total number of testcases : 1 
+2021-11-12 16:54:19,487 Number of testcases Passed : 1 
+2021-11-12 16:54:19,487 Number of testcases Failed : 0 
+2021-11-12 16:54:19,487 Number of testcases Skipped  : 0 
+2021-11-12 16:54:19,488 Mail sending toggel is set to false 
+2021-11-12 16:54:19,488 Mail sent : false 
+2021-11-12 16:54:19,488 ************************** Test Execution Finished ************************************ 
+2021-11-17 17:48:46,466 ************************** Test Execution Started ************************************ 
+2021-11-17 17:48:46,479 Could not load properties : C:\Users\optimum\eclipse-workspace\mas_allure\src\test\resources\config\-test.properties (The system cannot find the file specified) 
+2021-11-17 17:48:58,138 Facebook login test: Test started 
+2021-11-17 17:49:30,794 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2021-11-17 17:49:33,303 Google search test: Test started 
+2021-11-17 17:49:37,230 Google search test : Test Passed 
+2021-11-17 17:49:42,327 Total number of testcases : 2 
+2021-11-17 17:49:42,327 Number of testcases Passed : 1 
+2021-11-17 17:49:42,327 Number of testcases Failed : 1 
+2021-11-17 17:49:42,327 Number of testcases Skipped  : 0 
+2021-11-17 17:49:42,328 Mail sending toggel is set to false 
+2021-11-17 17:49:42,328 Mail sent : false 
+2021-11-17 17:49:42,328 ************************** Test Execution Finished ************************************ 

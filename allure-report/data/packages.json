@@ -1,0 +1,72 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.mas_allure.tests",
+    "children" : [ {
+      "name" : "GoogleSearchTest_withoutPage",
+      "children" : [ {
+        "name" : "googleSearchTest",
+        "uid" : "9226591c06787115",
+        "parentUid" : "710aed02070482487b654745840993d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636511623324,
+          "stop" : 1636511626804,
+          "duration" : 3480
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "710aed02070482487b654745840993d0"
+    }, {
+      "name" : "FaceBookLoginTest",
+      "children" : [ {
+        "name" : "facebookLoginTest",
+        "uid" : "4a75555b73ce7675",
+        "parentUid" : "6084f49d9d4a04ac84218b6af1397dff",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636515997180,
+          "stop" : 1636516027235,
+          "duration" : 30055
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6084f49d9d4a04ac84218b6af1397dff"
+    }, {
+      "name" : "GoogleSearchTest",
+      "children" : [ {
+        "name" : "googleSearchTest",
+        "uid" : "5a74df18354efd83",
+        "parentUid" : "204c2dbd0ecca265458a63ee8a09986a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636516038478,
+          "stop" : 1636516048345,
+          "duration" : 9867
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "204c2dbd0ecca265458a63ee8a09986a"
+    } ],
+    "uid" : "com.mas_allure.tests"
+  } ]
+}

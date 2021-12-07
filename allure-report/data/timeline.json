@@ -1,0 +1,303 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-O2PFH35H",
+    "children" : [ {
+      "name" : "10252@LAPTOP-O2PFH35H.TestNG-test=Test-2(23)",
+      "children" : [ {
+        "name" : "Google search test",
+        "uid" : "d38bf1a24198f9d2",
+        "parentUid" : "0c3e90a26154e58a8812738fad5ec9c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636458850811,
+          "stop" : 1636458853464,
+          "duration" : 2653
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0c3e90a26154e58a8812738fad5ec9c7"
+    }, {
+      "name" : "16768@LAPTOP-O2PFH35H.TestNG-test=Test-1(14)",
+      "children" : [ {
+        "name" : "Invalid Login Scenario with wrong username and password.",
+        "uid" : "a6aaf76901f48549",
+        "parentUid" : "245a2e020363f60f4e61782e5aa8ecd5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636458397777,
+          "stop" : 1636458425522,
+          "duration" : 27745
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "245a2e020363f60f4e61782e5aa8ecd5"
+    }, {
+      "name" : "24716@LAPTOP-O2PFH35H.TestNG-test=Test-1(14)",
+      "children" : [ {
+        "name" : "Invalid Login Scenario with wrong username and password.",
+        "uid" : "4a75555b73ce7675",
+        "parentUid" : "72d3b7d93131e92c6348de35468bea09",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636515997180,
+          "stop" : 1636516027235,
+          "duration" : 30055
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "72d3b7d93131e92c6348de35468bea09"
+    }, {
+      "name" : "15728@LAPTOP-O2PFH35H.TestNG-test=Test-1(14)",
+      "children" : [ {
+        "name" : "Test description",
+        "uid" : "e676acbadb900be7",
+        "parentUid" : "3ff9ffe5f41c42e55dc28daf469374ca",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636457972573,
+          "stop" : 1636457976964,
+          "duration" : 4391
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3ff9ffe5f41c42e55dc28daf469374ca"
+    }, {
+      "name" : "24716@LAPTOP-O2PFH35H.TestNG-test=Test-2(23)",
+      "children" : [ {
+        "name" : "Google search test",
+        "uid" : "5a74df18354efd83",
+        "parentUid" : "5d5a9b1e90b41235c3babe33757b4f03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636516038478,
+          "stop" : 1636516048345,
+          "duration" : 9867
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5d5a9b1e90b41235c3babe33757b4f03"
+    }, {
+      "name" : "23072@LAPTOP-O2PFH35H.TestNG-test=Test-2(23)",
+      "children" : [ {
+        "name" : "Google search test",
+        "uid" : "1a5df92645d4cab7",
+        "parentUid" : "cae5b04343eb4bb70cddd320078543b7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636458684803,
+          "stop" : 1636458689088,
+          "duration" : 4285
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cae5b04343eb4bb70cddd320078543b7"
+    }, {
+      "name" : "23312@LAPTOP-O2PFH35H.TestNG-test=Test-1(14)",
+      "children" : [ {
+        "name" : "Invalid Login Scenario with wrong username and password.",
+        "uid" : "d304baa875a7c900",
+        "parentUid" : "2076a90d9ac34296911edbdeea435b1c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636508264545,
+          "stop" : 1636508308110,
+          "duration" : 43565
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2076a90d9ac34296911edbdeea435b1c"
+    }, {
+      "name" : "15728@LAPTOP-O2PFH35H.TestNG-test=Test-2(15)",
+      "children" : [ {
+        "name" : "Facebook login test",
+        "uid" : "6057b29609bf2f4",
+        "parentUid" : "9866389dbc5ae51a2d2048fef4ad5d6e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636457972861,
+          "stop" : 1636457998093,
+          "duration" : 25232
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9866389dbc5ae51a2d2048fef4ad5d6e"
+    }, {
+      "name" : "17796@LAPTOP-O2PFH35H.TestNG-test=Test-1(14)",
+      "children" : [ {
+        "name" : "Google search test without page",
+        "uid" : "9226591c06787115",
+        "parentUid" : "0b61d8248a93fd74278dbd9a7cd34d4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636511623324,
+          "stop" : 1636511626804,
+          "duration" : 3480
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0b61d8248a93fd74278dbd9a7cd34d4a"
+    }, {
+      "name" : "16768@LAPTOP-O2PFH35H.TestNG-test=Test-2(23)",
+      "children" : [ {
+        "name" : "Google search test",
+        "uid" : "e4b3f238976cc904",
+        "parentUid" : "6b8605edcf6871119ba5f7ac9b3c78a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636458433261,
+          "stop" : 1636458437552,
+          "duration" : 4291
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6b8605edcf6871119ba5f7ac9b3c78a4"
+    }, {
+      "name" : "10252@LAPTOP-O2PFH35H.TestNG-test=Test-1(14)",
+      "children" : [ {
+        "name" : "Invalid Login Scenario with wrong username and password.",
+        "uid" : "22b7208ae9311005",
+        "parentUid" : "216d65c459e17556e0ea4089c86032cf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636458816852,
+          "stop" : 1636458842917,
+          "duration" : 26065
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "216d65c459e17556e0ea4089c86032cf"
+    }, {
+      "name" : "23072@LAPTOP-O2PFH35H.TestNG-test=Test-1(14)",
+      "children" : [ {
+        "name" : "Invalid Login Scenario with wrong username and password.",
+        "uid" : "4c84eb8060ca4c7a",
+        "parentUid" : "000be555d4db749b2301842f5a976bba",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636458649801,
+          "stop" : 1636458676958,
+          "duration" : 27157
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "000be555d4db749b2301842f5a976bba"
+    }, {
+      "name" : "23312@LAPTOP-O2PFH35H.TestNG-test=Test-2(24)",
+      "children" : [ {
+        "name" : "Google search test",
+        "uid" : "78838f084f0a6606",
+        "parentUid" : "fee812ed98e168ef50e785247b8aa8a1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636508335815,
+          "stop" : 1636508357129,
+          "duration" : 21314
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fee812ed98e168ef50e785247b8aa8a1"
+    }, {
+      "name" : "5432@LAPTOP-O2PFH35H.TestNG-test=Test-1(14)",
+      "children" : [ {
+        "name" : "Google search test without page",
+        "uid" : "fc6302f6bfc78037",
+        "parentUid" : "653d40888f20b20f1b195108b711e8f6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1636511342822,
+          "stop" : 1636511343718,
+          "duration" : 896
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "653d40888f20b20f1b195108b711e8f6"
+    } ],
+    "uid" : "985da6c337c157182d37822d966fef1c"
+  } ]
+}

@@ -1,0 +1,177 @@
+{
+  "uid" : "78838f084f0a6606",
+  "name" : "Google search test",
+  "fullName" : "com.mas_allure.tests.GoogleSearchTest.googleSearchTest",
+  "historyId" : "9fb4ad2613807e15485acae57c17af11",
+  "time" : {
+    "start" : 1636508335815,
+    "stop" : 1636508357129,
+    "duration" : 21314
+  },
+  "description" : "Test Description: Google search test.",
+  "descriptionHtml" : "<p>Test Description: Google search test.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "globalSetup",
+    "time" : {
+      "start" : 1636508229003,
+      "stop" : 1636508229200,
+      "duration" : 197
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1636508321870,
+      "stop" : 1636508335811,
+      "duration" : 13941
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: Google search test.",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Enter search Text Monetary Authority of singapore",
+      "time" : {
+        "start" : 1636508339877,
+        "stop" : 1636508355734,
+        "duration" : 15857
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5fa9a39409cd00a0",
+        "name" : "Any text",
+        "source" : "5fa9a39409cd00a0.png",
+        "type" : "image/png",
+        "size" : 221748
+      } ],
+      "parameters" : [ {
+        "name" : "key",
+        "value" : "Monetary Authority of singapore"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "900565eb58e93ef8",
+      "name" : "Any text",
+      "source" : "900565eb58e93ef8.png",
+      "type" : "image/png",
+      "size" : 221748
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "wrapUp",
+    "time" : {
+      "start" : 1636508358024,
+      "stop" : 1636508366198,
+      "duration" : 8174
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "wrapAllUp",
+    "time" : {
+      "start" : 1636508370742,
+      "stop" : 1636508370744,
+      "duration" : 2
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.mas_allure.tests.GoogleSearchTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.mas_allure.tests.GoogleSearchTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "googleSearchTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Google search test"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-O2PFH35H"
+  }, {
+    "name" : "thread",
+    "value" : "23312@LAPTOP-O2PFH35H.TestNG-test=Test-2(24)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Google search test {0}"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "78838f084f0a6606.json",
+  "parameterValues" : [ ]
+}

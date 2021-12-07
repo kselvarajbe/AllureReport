@@ -1,0 +1,214 @@
+{
+  "uid" : "5a74df18354efd83",
+  "name" : "Google search test",
+  "fullName" : "com.mas_allure.tests.GoogleSearchTest.googleSearchTest",
+  "historyId" : "9fb4ad2613807e15485acae57c17af11",
+  "time" : {
+    "start" : 1636516038478,
+    "stop" : 1636516048345,
+    "duration" : 9867
+  },
+  "description" : "Test Description: Google search test.",
+  "descriptionHtml" : "<p>Test Description: Google search test.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ {
+    "name" : "globalSetup",
+    "time" : {
+      "start" : 1636515981617,
+      "stop" : 1636515982215,
+      "duration" : 598
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1636516032249,
+      "stop" : 1636516038468,
+      "duration" : 6219
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: Google search test.",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Enter search Text Monetary Authority of singapore",
+      "time" : {
+        "start" : 1636516041265,
+        "stop" : 1636516048069,
+        "duration" : 6804
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "key",
+        "value" : "Monetary Authority of singapore"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "wrapUp",
+    "time" : {
+      "start" : 1636516048545,
+      "stop" : 1636516055318,
+      "duration" : 6773
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "wrapAllUp",
+    "time" : {
+      "start" : 1636516056896,
+      "stop" : 1636516056897,
+      "duration" : 1
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.mas_allure.tests.GoogleSearchTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.mas_allure.tests.GoogleSearchTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "googleSearchTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Google search test"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-O2PFH35H"
+  }, {
+    "name" : "thread",
+    "value" : "24716@LAPTOP-O2PFH35H.TestNG-test=Test-2(23)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Google search test {0}"
+  }, {
+    "name" : "epic",
+    "value" : "Regression Tests"
+  }, {
+    "name" : "feature",
+    "value" : "Google search Tests"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "78838f084f0a6606",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636508335815,
+        "stop" : 1636508357129,
+        "duration" : 21314
+      }
+    }, {
+      "uid" : "d38bf1a24198f9d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636458850811,
+        "stop" : 1636458853464,
+        "duration" : 2653
+      }
+    }, {
+      "uid" : "1a5df92645d4cab7",
+      "status" : "failed",
+      "statusDetails" : "Title doesn't contain abc : Test Failed expected [true] but found [false]",
+      "time" : {
+        "start" : 1636458684803,
+        "stop" : 1636458689088,
+        "duration" : 4285
+      }
+    }, {
+      "uid" : "e4b3f238976cc904",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636458433261,
+        "stop" : 1636458437552,
+        "duration" : 4291
+      }
+    }, {
+      "uid" : "e676acbadb900be7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636457972573,
+        "stop" : 1636457976964,
+        "duration" : 4391
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a74df18354efd83.json",
+  "parameterValues" : [ ]
+}

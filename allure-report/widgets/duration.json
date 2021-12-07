@@ -1,0 +1,31 @@
+[ {
+  "uid" : "4a75555b73ce7675",
+  "name" : "Invalid Login Scenario with wrong username and password.",
+  "time" : {
+    "start" : 1636515997180,
+    "stop" : 1636516027235,
+    "duration" : 30055
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "5a74df18354efd83",
+  "name" : "Google search test",
+  "time" : {
+    "start" : 1636516038478,
+    "stop" : 1636516048345,
+    "duration" : 9867
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "9226591c06787115",
+  "name" : "Google search test without page",
+  "time" : {
+    "start" : 1636511623324,
+    "stop" : 1636511626804,
+    "duration" : 3480
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

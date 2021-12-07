@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Wed Nov 10 11:46:37 SGT 2021","Wed Nov 10 11:47:07 SGT 2021","30055","Suite","Test","Facebook login test","com.mas_allure.tests.FaceBookLoginTest","facebookLoginTest","Invalid Login Scenario with wrong username and password.","Test Description: Login test with wrong username and wrong password."
+"passed","Wed Nov 10 11:47:18 SGT 2021","Wed Nov 10 11:47:28 SGT 2021","9867","Suite","Test","Google search test","com.mas_allure.tests.GoogleSearchTest","googleSearchTest","Google search test","Test Description: Google search test."
+"passed","Wed Nov 10 10:33:43 SGT 2021","Wed Nov 10 10:33:46 SGT 2021","3480","Suite","Test","Google search test without page","com.mas_allure.tests.GoogleSearchTest_withoutPage","googleSearchTest","Google search test without page","Test Description: Google search test without page."

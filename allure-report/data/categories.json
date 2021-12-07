@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Login failed : Test failed expected [true] but found [false]",
+      "children" : [ {
+        "name" : "Invalid Login Scenario with wrong username and password.",
+        "uid" : "4a75555b73ce7675",
+        "parentUid" : "b6a168d442837601d7f614fb66499486",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636515997180,
+          "stop" : 1636516027235,
+          "duration" : 30055
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b6a168d442837601d7f614fb66499486"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
